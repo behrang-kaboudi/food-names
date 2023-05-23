@@ -1,0 +1,19 @@
+{
+  "name": "food-names",
+  "version": "1.0.0",
+  "description": "sample food names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Seyed Behrang Kaboudi <behrang.tr@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/behrang-kaboudi/food-names.git"
+  },
+  "dependencies": {
+    "unique-random-array": "^3.0.0"
+  }
+}
